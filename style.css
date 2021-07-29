@@ -3,9 +3,20 @@
     width: 168px;
     padding: 10px;
 }
+.bike-clltn{
+    color: #E76F51;
+}
+.clients-image{
+    width: 149px;
+    height: 149px;
+}
 .bg-info-banner{
     background-color: 
     #264653;
+}
+.faq-image{
+    width: 431px;
+    height: 423px;
 }
 .Qstn{
     color: #E76F51;
